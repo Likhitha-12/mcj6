@@ -1,0 +1,19 @@
+public class Employee
+
+{
+
+public static void main (String args[])
+
+{
+
+System.out.println("Name,salary, Year of joining, Address");
+
+System.out.println("Robert,65000, 1994, 64C- WallsStreat");
+
+System.out.println("Sam,75000, 2000, 68D- WallsStreat");
+
+System.out.println("John,85000, 1999, 26B- WallsStreat");
+
+}
+
+}
